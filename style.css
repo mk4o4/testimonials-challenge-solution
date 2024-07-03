@@ -101,8 +101,11 @@ body {
     #testimonial-1,
     #testimonial-4 {
         flex-basis: 65%;
+        color:white;
     }
-
+    .testimonial-2{
+        color:white;
+    }
     #testimonial-2,
     #testimonial-3 {
         flex-basis: 35%;
